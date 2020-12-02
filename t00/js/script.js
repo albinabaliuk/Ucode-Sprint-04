@@ -1,3 +1,4 @@
+//One of the creatures will be the prototype of magician
 const magician = {
   _hat: './assets/images/hat.png',
   _getPortrait() {
